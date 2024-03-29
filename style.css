@@ -1,4 +1,9 @@
-body {background: url("https://assets.iflscience.com/assets/articleNo/72556/aImg/73624/dark-forest-m.png") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+body {
+ background: url("https://assets.iflscience.com/assets/articleNo/72556/aImg/73624/dark-forest-m.png") fixed;
+ background-repeat: no-repeat;
+ background-size: cover;
+ color: #000;
+ font-family: 'Playfair Display', 'nunito'}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
